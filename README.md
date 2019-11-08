@@ -22,7 +22,7 @@ Coefficients:
 
 ```
 
-![](fig_output/CRP_boxplot.png)
+![](fig_output/CRP_scatterplot.png)
 ##
 ##
 ### Results of multiple regression, BMI x Serum Cortisol + C-Reactive Protein (CRP)
