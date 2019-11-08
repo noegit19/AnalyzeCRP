@@ -1,5 +1,4 @@
 ## AnalyzeCRP
-![doi](../master/Images/zenodo.3373938.svg?sanitize=true)
 ### Single and multiple regressions, and scatterplots for clinical bloodwork and gene expression data.
 ([AnalyzeBloodwork.R](../master/AnalyzeBloodwork.R)) will allow you to load a comma-delimited .csv with various datapoints, perform single and multiple regressions of Body Mass Index (BMI) vs. CRP from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D and 3-D scatterplots for the results. 
 
@@ -9,17 +8,17 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 
 Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
 
-### Results of single regression, BMI x C-Reactive Protein (CRP)
+### Results of single regression, BMI x CRP
 ```
-> single.regression <- lm(BMI ~ CRP, data=IBS1)
+> single.regression <- lm(BMI ~ CRP, data=IBS)
 > print(single.regression)
 
 Call:
-lm(formula = BMI ~ SerumCortisol + CRP, data = IBS1)
+lm(formula = BMI ~ CRP, data = IBS)
 
 Coefficients:
-  (Intercept)  SerumCortisol            CRP  
-      30.7936        -0.5231         0.6042  
+ (Intercept)          CRP  
+    25.4076       0.5737  
 
 ```
 
