@@ -7,26 +7,6 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 
 Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
 
-##
-### Results of single regression, BMI x Serum Cortisol
-```
-> single.regression <- lm(BMI ~ SerumCortisol, data=IBS1)
-> print(single.regression)
-
-Call:
-lm(formula = BMI ~ SerumCortisol, data = IBS1)
-
-Coefficients:
-  (Intercept)  SerumCortisol  
-      31.9454        -0.5004  
-```
-```
-ggplot(IBS1, aes(x=BMI, y=SerumCortisol)) +
-  geom_point() +    
-  geom_smooth(method=lm) 
-```
-![BMI_Cortisol](../master/Images/CORTxBMI.png?sanitize=true)
-##
 ### Results of single regression, BMI x C-Reactive Protein (CRP)
 ```
 > single.regression <- lm(BMI ~ CRP, data=IBS1)
