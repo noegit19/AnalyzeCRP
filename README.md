@@ -10,8 +10,8 @@ Robinson, JM. et al. 2019. Complete blood count with differential: An effective 
 
 ### Results of single regression, BMI x CRP
 ```
-> single.regression <- lm(BMI ~ CRP, data=IBS)
-> print(single.regression)
+> CRP.regression <- lm(BMI ~ CRP, data=IBS)
+> print(CRP.regression)
 
 Call:
 lm(formula = BMI ~ CRP, data = IBS)
@@ -25,23 +25,22 @@ Coefficients:
 ![](fig_output/CRP_scatterplot.png)
 ##
 ##
-### Results of multiple regression, BMI x Serum Cortisol + C-Reactive Protein (CRP)
+### Results of ANOVA: IBS-subtype vs. Bloodwork parameter (CRP)
 ```
-> fit1 <- lm(BMI ~ SerumCortisol + CRP, data=IBS1)
-> summary(fit1)
+> CRP.aov <- aov(CRP ~ IBS.subtype, data = IBS)
+> print(CRP.aov)
 
 Call:
-lm(formula = BMI ~ SerumCortisol + CRP, data = IBS1)
+   aov(formula = CRP ~ IBS.subtype, data = IBS)
 
-Residuals:
-    Min      1Q  Median      3Q     Max 
--9.1378 -3.4448 -0.9904  2.3330 20.6056 
+Terms:
+                IBS.subtype Residuals
+Sum of Squares       2.7264 1217.4178
+Deg. of Freedom           1       107
 
-Coefficients:
-              Estimate Std. Error t value Pr(>|t|)    
-(Intercept)    30.7936     1.4134  21.787  < 2e-16 ***
-SerumCortisol  -0.5231     0.1233  -4.244 4.72e-05 ***
-CRP             0.6042     0.1534   3.938 0.000147 ***
+Residual standard error: 3.37309
+Estimated effects may be unbalanced
+2 observations deleted due to missingness
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
