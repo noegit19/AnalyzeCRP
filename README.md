@@ -41,12 +41,17 @@ Estimated effects may be unbalanced
 ```
 ### Results of Scatterplots
 ```
-ggplot(IBS, aes(x=BMI, y=CRP)) +
-  geom_point() +    
-  geom_smooth(method=lm) 
+> ggplot(IBS, aes(x=BMI, y=CRP)) + geom_point() + geom_smooth(method=lm) 
+> print(CRP_scatterplot)
 
 ```
 ![](fig_output/CRP_scatterplot.png)
 
-![BMI_Cortisol_CRP_3d-scatterplot](../master/Images/MultipleRegression_3way.png?sanitize=true)
+### Results of Scatterplots
+```
+> boxplot(CRP ~ IBS.subtype, data = IBS, main="CRP by IBS subtype", xlab = "IBS.subtype", ylab = "CRP")
+> print(CRP_boxplot)
+
+```
+![](fig_output/CRP_anova.png)
 ##
