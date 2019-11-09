@@ -39,7 +39,7 @@ Estimated effects may be unbalanced
 2 observations deleted due to missingness
 
 ```
-### Results of Scatterplots
+### Scatterplots of CRP
 ```
 > ggplot(IBS, aes(x=BMI, y=CRP)) + geom_point() + geom_smooth(method=lm) 
 > print(CRP_scatterplot)
@@ -47,7 +47,7 @@ Estimated effects may be unbalanced
 ```
 ![](fig_output/CRP_scatterplot.png)
 
-### Results of Box plots
+### Box plots of CRP
 ```
 > boxplot(CRP ~ IBS.subtype, data = IBS, main="CRP by IBS subtype", xlab = "IBS.subtype", ylab = "CRP")
 > print(CRP_boxplot)
