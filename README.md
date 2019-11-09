@@ -47,11 +47,11 @@ Estimated effects may be unbalanced
 ```
 ![](fig_output/CRP_scatterplot.png)
 
-### Results of Scatterplots
+### Results of Box plots
 ```
 > boxplot(CRP ~ IBS.subtype, data = IBS, main="CRP by IBS subtype", xlab = "IBS.subtype", ylab = "CRP")
 > print(CRP_boxplot)
 
 ```
-![](fig_output/CRP_anova.png)
+![](fig_output/CRP_boxplot.png)
 ##
