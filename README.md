@@ -21,10 +21,6 @@ Coefficients:
     25.4076       0.5737  
 
 ```
-
-![](fig_output/CRP_scatterplot.png)
-##
-##
 ### Results of ANOVA: IBS-subtype vs. Bloodwork parameter (CRP)
 ```
 > CRP.aov <- aov(CRP ~ IBS.subtype, data = IBS)
@@ -41,18 +37,16 @@ Deg. of Freedom           1       107
 Residual standard error: 3.37309
 Estimated effects may be unbalanced
 2 observations deleted due to missingness
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-Residual standard error: 5.354 on 106 degrees of freedom
-  (2 observations deleted due to missingness)
-Multiple R-squared:  0.232,	Adjusted R-squared:  0.2175 
-F-statistic: 16.01 on 2 and 106 DF,  p-value: 8.388e-07
 ```
+### Results of Scatterplots
 ```
-s3d <- scatterplot3d(IBS$BMI, IBS$SerumCortisol, IBS$CRP,  pch=16, color="steelblue", box="TRUE", highlight.3d=FALSE, type="h", main="BMI x Cortisol x CRP")
-fit <- lm(SerumCortisol ~ BMI + CRP, data=IBS)
-s3d$plane3d(fit)
+ggplot(IBS, aes(x=BMI, y=CRP)) +
+  geom_point() +    
+  geom_smooth(method=lm) 
+
 ```
+![](fig_output/CRP_scatterplot.png)
+
 ![BMI_Cortisol_CRP_3d-scatterplot](../master/Images/MultipleRegression_3way.png?sanitize=true)
 ##
