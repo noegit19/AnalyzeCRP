@@ -7,6 +7,19 @@ library(ggplot2)
 ## Read data
 IBS <- read.csv("data/RobinsonEtAl_Sup1.csv", header = TRUE)
 head(IBS)
+IBS$CRP_result <- "NA"
+
+## Assign "HIGH", "NORMAL", or "LOW" based on clinical range to the CRP_result parameter
+
+IBS$CRP_result[IBS$CRP > 3] <- "HIGH"
+
+IBS$CRP_result[IBS$CRP <= 3 & IBS$LDH >= 1] <- "NORMAL"
+
+IBS$CRP_result[IBS$CRP < 1] <- "LOW"
+
+#source for value of CRP parameters
+#https://www.emedicinehealth.com/c_reactive_protein_blood_test_crp/article_em.htm#are_high_levels_of_c-reactive_protein_a_risk_of_heart_disease
+
 write.csv(IBS, "data_output/output.cvs")
 
 ##  Single Regressions for BMI vs. CRP
