@@ -17,7 +17,7 @@ IBS$CRP_result[IBS$CRP <= 3 & IBS$LDH >= 1] <- "NORMAL"
 
 IBS$CRP_result[IBS$CRP < 1] <- "LOW"
 
-#source for value of CRP parameters
+#source values for CRP parameter
 #https://www.emedicinehealth.com/c_reactive_protein_blood_test_crp/article_em.htm#are_high_levels_of_c-reactive_protein_a_risk_of_heart_disease
 
 write.csv(IBS, "data_output/output.cvs")
@@ -65,13 +65,15 @@ dev.off()
 
 ## Box plots
 ## https://www.statmethods.net/graphs/boxplot.html
+## example to add color taken from:
+## https://www.tutorialspoint.com/r/r_boxplots.htm
 
 boxplot(CRP ~ IBS.subtype, data = IBS, main="CRP by IBS subtype", 
-        xlab = "IBS.subtype", ylab = "CRP"
+        xlab = "IBS.subtype", ylab = "CRP",  col = c("green","yellow","purple")
 )
 
 png("fig_output/CRP_boxplot.png")
 CRP_boxplot <- boxplot(CRP ~ IBS.subtype, data = IBS, main="CRP by IBS subtype", 
-xlab = "IBS.subtype", ylab = "CRP")
+xlab = "IBS.subtype", ylab = "CRP"), col = c("green","yellow","purple"))
 print(CRP_boxplot)
 dev.off()
