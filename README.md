@@ -4,6 +4,8 @@
 C-reactive protein (CRP) is a blood test marker for inflammation in the body. CRP is produced in the liver and its level is measured by testing the blood. There are no symptoms of an elevated C-reactive protein level. The increase can be due to different causes as burns,
 trauma, infections, such as pneumonia or tuberculosis, heart attack, chronic inflammatory diseases such as lupus, vasculitis, or rheumatoid arthritis, inflammatory bowel disease, and certain cancers.
 
+source> https://www.medicinenet.com/c-reactive_protein_test_crp/article.htm
+
 Data (RobinsonEtAl_Sup1.csv) was downloaded from: 
 
 Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
