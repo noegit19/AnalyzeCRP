@@ -74,6 +74,6 @@ boxplot(CRP ~ IBS.subtype, data = IBS, main="CRP by IBS subtype",
 
 png("fig_output/CRP_boxplot.png")
 CRP_boxplot <- boxplot(CRP ~ IBS.subtype, data = IBS, main="CRP by IBS subtype", 
-xlab = "IBS.subtype", ylab = "CRP"), col = c("green","yellow","purple"))
+       xlab = "IBS.subtype", ylab = "CRP"), col = c("green","yellow","purple"))
 print(CRP_boxplot)
 dev.off()
