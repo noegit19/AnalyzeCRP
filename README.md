@@ -1,4 +1,5 @@
-## AnalyzeCRP
+# AnalyzeCRP
+
 ([AnalyzeCRP.R](../master/scripts/AnalyzeCRP.R)) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. CRP from the Complete Blood Count with Differential (CBC-D) results, produce a 2-D scatterplot for the results, and perform a one-way ANOVA with a formatted box. 
 
 C-reactive protein (CRP) is a blood test marker for inflammation in the body. CRP is produced in the liver and its level is measured by testing the blood. There are no symptoms of an elevated C-reactive protein level. The increase can be due to different causes such as burns, trauma, infections, pneumonia or tuberculosis, heart attack, chronic inflammatory diseases such as lupus, vasculitis, or rheumatoid arthritis, inflammatory bowel disease, and certain cancers.
@@ -9,13 +10,15 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 
 Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
 
-## Installation of packages 
+## *Installation of packages*
+
 ```
-install.packages("ggplot2")
-library(ggplot2)
+*install.packages("ggplot2")
+*library(ggplot2)
 
 ```
 ## Read data and column for the range of CRP parameter
+
 ```
 > IBS <- read.csv("data/RobinsonEtAl_Sup1.csv", header = TRUE)
 > head(IBS)
@@ -30,8 +33,8 @@ library(ggplot2)
 > write.csv(IBS, "data_output/output.cvs")
 
 ```
+## Single regression, BMI x CRP with results
 
-### Single regression, BMI x CRP with results
 ```
 > CRP.regression <- lm(BMI ~ CRP, data=IBS)
 > summary(CRP.regression)
@@ -47,7 +50,8 @@ Coefficients:
     25.4076       0.5737  
 
 ```
-### ANOVA: IBS-subtype vs. Bloodwork parameter (CRP) and results
+## ANOVA: IBS-subtype vs. Bloodwork parameter (CRP) and results
+
 ```
 > CRP.aov <- aov(CRP ~ IBS.subtype, data = IBS)
 > summary(CRP.aov)
@@ -68,7 +72,8 @@ Estimated effects may be unbalanced
 2 observations deleted due to missingness
 
 ```
-### Scatterplots of CRP
+## Scatterplots of CRP
+
 ```
 > ggplot(IBS, aes(x=BMI, y=CRP)) +
   geom_point() +    
@@ -84,7 +89,8 @@ Estimated effects may be unbalanced
 ```
 ![](fig_output/CRP_scatterplot.png)
 
-### Box plots of CRP
+## Box plots of CRP
+
 ```
 > boxplot(CRP ~ IBS.subtype, data = IBS, main="CRP by IBS subtype", 
         xlab = "IBS.subtype", ylab = "CRP",  col = c("green","yellow","purple")
