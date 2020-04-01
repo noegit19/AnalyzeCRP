@@ -86,7 +86,6 @@ Terms:
   | Type of value | IBS.subtype | Residuals |
   | --- | --- | --- |
 | Sum of Squares | 2.7264 | 1217.4178 |
-| --- | --- | --- |
 | Deg. of Freedom | 1 | 107 |
 
 Residual standard error: 3.37309
