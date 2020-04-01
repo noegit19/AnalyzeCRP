@@ -54,14 +54,17 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 > print(CRP.regression)
 > sink()
 
+```
 ### Results
 
 Call:
 lm(formula = BMI ~ CRP, data = IBS)
 
-Coefficients:
- (Intercept)          CRP  
-    25.4076       0.5737  
+        Coefficients:  
+        
+  | Intercept | CRP |
+  |---| --- |
+  | 25.4076 | 0.5737 |
 
 ```
 ## ANOVA: IBS-subtype vs. Bloodwork parameter (CRP)
