@@ -4,7 +4,7 @@
 
 ### CRP Background
 
-`C-reactive protein (*CRP*)` is a blood test marker for inflammation in the body. *CRP* is produced in the liver and its level is measured by testing the blood. There are `no symptoms` of an elevated C-reactive protein level. The increase can be due to different causes such as: 
+*`C-reactive protein (CRP)`* is a blood test marker for inflammation in the body. *CRP* is produced in the liver and its level is measured by testing the blood. There are `no symptoms` of an elevated C-reactive protein level. The increase can be due to different causes such as: 
 + burns
 + trauma
 + infections
