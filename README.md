@@ -63,7 +63,7 @@ lm(formula = BMI ~ CRP, data = IBS)
        Coefficients
        
   | Intercept | CRP |
-  |---| --- |
+  | --- | --- |
   | 25.4076 | 0.5737 |
 
 ```
