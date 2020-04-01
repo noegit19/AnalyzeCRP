@@ -2,7 +2,7 @@
 
 ([AnalyzeCRP.R](../master/scripts/AnalyzeCRP.R)) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. CRP from the Complete Blood Count with Differential (CBC-D) results, produce a 2-D scatterplot for the results, and perform a one-way ANOVA with a formatted box. 
 
-C-reactive protein (CRP) is a blood test marker for inflammation in the body. CRP is produced in the liver and its level is measured by testing the blood. There are no symptoms of an elevated C-reactive protein level. The increase can be due to different causes such as burns, trauma, infections, pneumonia or tuberculosis, heart attack, chronic inflammatory diseases such as lupus, vasculitis, or rheumatoid arthritis, inflammatory bowel disease, and certain cancers.
+C-reactive protein (CRP) is a blood test marker for inflammation in the body. CRP is produced in the liver and its level is measured by testing the blood. There are `no symptoms` of an elevated C-reactive protein level. The increase can be due to different causes such as burns, trauma, infections, pneumonia or tuberculosis, heart attack, chronic inflammatory diseases such as lupus, vasculitis, or rheumatoid arthritis, inflammatory bowel disease, and certain cancers.
 
 source> https://www.medicinenet.com/c-reactive_protein_test_crp/article.htm
 
