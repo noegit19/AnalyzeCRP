@@ -45,7 +45,7 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 > write.csv(IBS, "data_output/output.cvs")
 
 ```
-## Single regression, BMI x CRP with results
+## Single regression, BMI x CRP
 
 ```
 > CRP.regression <- lm(BMI ~ CRP, data=IBS)
@@ -53,6 +53,8 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 > sink('data_output/CRP_regression.txt', append = TRUE)
 > print(CRP.regression)
 > sink()
+
+### Results
 
 Call:
 lm(formula = BMI ~ CRP, data = IBS)
@@ -62,7 +64,7 @@ Coefficients:
     25.4076       0.5737  
 
 ```
-## ANOVA: IBS-subtype vs. Bloodwork parameter (CRP) and results
+## ANOVA: IBS-subtype vs. Bloodwork parameter (CRP)
 
 ```
 > CRP.aov <- aov(CRP ~ IBS.subtype, data = IBS)
@@ -71,6 +73,10 @@ Coefficients:
 > print(CRP.aov)
 > sink()
 
+```
+### Results
+
+```
 Call:
    aov(formula = CRP ~ IBS.subtype, data = IBS)
 
@@ -99,6 +105,8 @@ Estimated effects may be unbalanced
 > dev.off()
 
 ```
+### Scatterplot Graph 
+
 ![](fig_output/CRP_scatterplot.png)
 
 ## Box plots of CRP
@@ -114,5 +122,7 @@ Estimated effects may be unbalanced
 > dev.off()
 
 ```
+### Box plots Graph
+
 ![](fig_output/CRP_boxplot.png)
 ##
