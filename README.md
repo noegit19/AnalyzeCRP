@@ -60,7 +60,8 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 Call:
 lm(formula = BMI ~ CRP, data = IBS)
 
-       Coefficients   
+       Coefficients
+       
   | Intercept | CRP |
   |---| --- |
   | 25.4076 | 0.5737 |
@@ -84,7 +85,7 @@ Call:
 
 Terms:
                 | IBS.subtype | Residuals |
-                | --- | --- |
+                | --- | --- | --- |
 | Sum of Squares | 2.7264 | 1217.4178 |
 | --- | --- |
 | Deg. of Freedom | 1 | 107 |
