@@ -56,12 +56,11 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 
 ```
 ### Results
-
+```
 Call:
 lm(formula = BMI ~ CRP, data = IBS)
 
-        Coefficients:  
-        
+       Coefficients   
   | Intercept | CRP |
   |---| --- |
   | 25.4076 | 0.5737 |
@@ -84,9 +83,11 @@ Call:
    aov(formula = CRP ~ IBS.subtype, data = IBS)
 
 Terms:
-                IBS.subtype Residuals
-Sum of Squares       2.7264 1217.4178
-Deg. of Freedom           1       107
+                | IBS.subtype | Residuals |
+                | --- | --- |
+| Sum of Squares | 2.7264 | 1217.4178 |
+| --- | --- |
+| Deg. of Freedom | 1 | 107 |
 
 Residual standard error: 3.37309
 Estimated effects may be unbalanced
