@@ -78,11 +78,11 @@ Coefficients:
 ```
 ### Results
 
-```
 Call:
    aov(formula = CRP ~ IBS.subtype, data = IBS)
 
 Terms:
+
   | Type of value | IBS.subtype | Residuals |
   | --- | --- | --- |
 | Sum of Squares | 2.7264 | 1217.4178 |
@@ -93,7 +93,6 @@ Residual standard error: 3.37309
 Estimated effects may be unbalanced
 2 observations deleted due to missingness
 
-```
 ## Scatterplots of CRP
 
 ```
