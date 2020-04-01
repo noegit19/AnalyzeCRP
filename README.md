@@ -10,11 +10,11 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 
 Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
 
-## *Installation of packages*
+## Package Installation
 
 ```
-*install.packages("ggplot2")
-*library(ggplot2)
+1. install.packages("ggplot2")
+2. library(ggplot2)
 
 ```
 ## Read data and column for the range of CRP parameter
