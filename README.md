@@ -56,13 +56,11 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 
 ```
 ### Results
-```
+
 Call:
 lm(formula = BMI ~ CRP, data = IBS)
 
-```
-       Coefficients
-       
+      Coefficients
   | Intercept | CRP |
   | --- | --- |
   | 25.4076 | 0.5737 |
