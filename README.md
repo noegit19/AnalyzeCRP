@@ -18,7 +18,7 @@ source> https://www.medicinenet.com/c-reactive_protein_test_crp/article.htm
 
 Data (RobinsonEtAl_Sup1.csv) was downloaded from: 
 
-Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
+> Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
 
 ## Package Installation
 
