@@ -205,7 +205,7 @@ VolcanoPlotData$Sig <- ifelse(VolcanoPlotData$`-log10(Pval)` > 1.3, "Sig", "Insi
 install.packages("ggplot2")
 library(ggplot2)
 
-# library(ggrepel)
+## library(ggrepel)
 
 ```
 png("../fig_output/CRPplot.png")
