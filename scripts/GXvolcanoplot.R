@@ -11,7 +11,7 @@ IBS <- read.csv("../data/GXdata.csv", header = TRUE)
 ## Access only the columns with RNA Expression (subsetting)
 names(IBS)[28:277]
 
-## Make a list of anova(lm()) results for bloodwork parameter
+## Make a list of anova(lm()) results for CPR
 storage <- list()
 
 for(i in names(IBS)[28:277]){
