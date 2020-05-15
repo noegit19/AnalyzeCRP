@@ -131,6 +131,7 @@ Estimated effects may be unbalanced
 ### Box plots Graph
 
 ![](fig_output/CRP_boxplot.png)
+
 ##
 
 # Data transformation and Volcano Plot
@@ -223,6 +224,7 @@ dev.off()
 ### Volcano plots Graph
 
 ![](fig_output/CRPplot.png)
+
 ##
 
 ### Significant genes for CRP
