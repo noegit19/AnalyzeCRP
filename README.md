@@ -150,14 +150,14 @@ IBS <- read.csv("../data/GXdata.csv", header = TRUE)
 
 ```
 
-## Access only the columns with RNA Expression (subsetting)
+## Access only the columns with RNA Expression 
 
 ```
 names(IBS)[28:277]
 
 ```
 
-## Make a list of anova(lm()) results for bloodwork parameter
+## Make a list of anova(lm()) results for CRP
 
 ```
 storage <- list()
@@ -201,12 +201,13 @@ names(VolcanoPlotData)[2] <- paste("-log10(Pval)")
 VolcanoPlotData$Sig <- ifelse(VolcanoPlotData$`-log10(Pval)` > 1.3, "Sig", "Insig");
 
 ```
-  
-## Make a volcano-style scatterplot for these results
+
+## Install the necsesary packages
+
 install.packages("ggplot2")
 library(ggplot2)
 
-## library(ggrepel)
+## Save the volcano plot in the output folder
 
 ```
 png("../fig_output/CRPplot.png")
