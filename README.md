@@ -233,3 +233,11 @@ dev.off()
 | VEGFA | vascular endothelial growth factor A |
 | PDCD1LG2 | Programmed cell death 1 ligand 2 |
 | TGFB2 | transforming growth factor beta 2 |
+
+### Panther Analysis Result
+
+![](Image/PantherResult.png)
+
+##
+
+
