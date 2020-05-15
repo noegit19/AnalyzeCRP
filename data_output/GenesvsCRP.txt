@@ -1,0 +1,2500 @@
+$A2M
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1720.31                             44.38  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          8804.9                             151.1  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        65942.62                             93.76  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         10039.4                             272.5  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         48158.5                             323.4  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          241280                              2938  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          327424                              1363  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        813710.2                             101.9  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         405.450                            -3.217  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          4402.7                              14.2  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          645865                              2852  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          393.15                            -24.16  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         4370.02                             18.53  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         6840.90                             28.94  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        10450.74                             77.93  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          147657                              3458  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         98021.0                             573.7  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         87627.8                             282.3  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        32193.23                             26.62  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        109728.6                             222.7  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          563.45                             24.67  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1804.52                             44.01  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         833.166                             3.738  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        1233.316                            -4.436  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        516.0366                           -0.2277  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          162554                             -1462  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                       116367.08                             60.04  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          5237.1                              40.8  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         18061.4                             349.5  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          394528                             -6368  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        26057.99                            -52.59  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         36545.4                            -759.2  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         37910.1                             170.9  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         3661.93                             18.29  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1813.60                             31.59  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1939.74                             23.04  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        101932.2                             438.1  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          1869.6                             -24.2  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         64778.5                             971.1  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         2875.60                             58.29  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         57813.9                             669.9  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         19107.5                            -356.2  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         21984.0                             313.3  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          323567                              1406  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        104886.5                             537.6  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          180869                             -1004  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         23534.8                            -108.4  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         47131.6                             981.7  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          124815                             -1973  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          811204                             -1554  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          199602                             -3958  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          225650                             -1803  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         68193.0                            -365.7  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           48859                              2081  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          190544                              1566  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         3232.62                             50.67  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         55445.5                             367.2  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1269.64                            -17.05  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        11431.76                             25.12  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          686.46                            -15.36  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          705195                            -12677  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           64517                              1495  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         2775.25                             79.47  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          261.88                            -10.35  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          164157                             11214  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          259371                            -19828  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1211487                             -4338  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         14536.4                             177.1  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         2696.06                             60.44  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           49328                             -3726  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          114898                             -8006  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         30450.7                            -748.7  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                       1.179e+05                         2.356e+00  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         7221.36                            -39.82  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         45894.6                            -457.7  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          220451                             -1563  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        110900.4                             689.2  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        72639.01                            -27.02  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1032901                            -31494  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           46542                             -1146  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           91073                               749  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          271240                             -1135  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          5390.4                            -110.5  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        11131.85                            -39.11  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         34658.7                            -785.4  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          360670                              1742  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         62086.8                            -458.8  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          503694                             35172  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         8539.59                             27.69  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          235674                              1741  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          5014.6                             174.8  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         22816.2                             104.2  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         3943.21                             53.84  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          292899                             -6201  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        2428.764                            -1.967  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          107724                             -1483  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         25487.1                             462.8  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1291017                              4538  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         62988.1                             737.2  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        1540.040                             4.221  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          244221                             -6452  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          9578.2                             414.1  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         40522.9                            -323.4  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          388033                             -1629  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         69823.1                            -805.5  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         52387.6                            -833.7  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          3283.8                             -81.4  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         96851.3                            -317.4  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         78386.4                             522.7  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         42098.0                            -404.3  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           253.5                              -5.1  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           52261                             -1168  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         50544.3                             813.8  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         4807.36                             63.55  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1722.77                            -35.08  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         9597.42                             31.66  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          827.70                            -19.75  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        3872.409                             6.566  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         439.369                            -5.636  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          183864                             -1165  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        1497.335                            -6.692  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           38483                             -3583  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         18691.9                            -138.5  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1004.55                             59.78  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1382.99                             30.18  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         20014.6                             534.9  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        1801.559                             1.063  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          7871.8                              66.9  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1070.93                             18.84  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        142387.2                             202.5  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          1706.1                              45.8  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          3954.6                             115.9  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         3915.27                             42.53  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          966819                             11387  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           49036                             -2455  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          165409                             -2687  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         3327.55                            -38.72  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         19359.6                             242.9  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          831.52                             25.19  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           22611                             -1736  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          134177                             -1857  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        12797.55                             44.73  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           44020                             -1390  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          321728                             -2532  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         30512.3                            -618.2  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          2218.9                              64.5  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        2597.017                            -6.655  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         76191.6                            -371.6  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          174176                             -3723  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        17373.94                             29.71  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          723982                             -2039  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         52147.7                            -410.7  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           69810                               192  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        1048.114                            -6.791  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          6565.1                            -188.2  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           65363                              6603  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         17634.4                             312.3  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          4817.0                             102.3  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         9220899                           -119941  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        2275.575                             7.899  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         52730.5                             903.1  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        93757.32                             75.35  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          152477                               796  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          8587.0                             213.4  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          386.71                            -26.16  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         40746.1                             315.4  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        195975.5                             447.5  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        24251.44                            -31.19  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         4086.01                            -14.19  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         6082.70                             13.76  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          343600                             -2127  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         5522.09                             65.97  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         10988.6                             263.4  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         56788.8                             346.1  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          1600.9                              13.2  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        102114.2                            -933.7  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         26890.5                            -463.8  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         37112.4                            -711.5  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          6559.0                             246.9  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         2847.14                            -31.92  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         40476.8                             477.8  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                       95195.421                             4.634  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          684318                            -32756  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        24309.18                             48.79  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         12022.7                            -137.9  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                       138849.63                            -54.68  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         25499.5                             171.9  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        141497.6                             288.7  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         81336.5                             277.3  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         34649.3                            -633.6  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        1629.910                             6.562  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          924.61                             41.27  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         2264.17                             56.36  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          213305                              -609  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          570675                            -12967  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         2717.65                             23.17  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          157084                              1272  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         1486.73                            -24.03  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         7236.29                            -46.27  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          9697.7                            -398.9  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           91478                             -1348  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         97123.9                             245.9  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         57643.1                             807.7  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           19747                             -1123  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          353180                             10917  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        138412.9                            -237.8  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        127557.5                            -515.3  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                       15157.914                            -3.108  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        21441.60                             54.38  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        119460.1                             943.4  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          7949.1                             254.9  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         6036205                            -44366  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         28828.4                            -475.2  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           60056                              1261  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                            3912                               313  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                            9669                              1389  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          147359                              1615  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          6737.4                            -266.1  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        105512.9                             502.9  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          443833                             -7653  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         2130.12                            -13.55  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         49576.0                            -798.9  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                       12099.925                            -7.672  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        183914.1                             790.2  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        2114.781                            -1.561  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        1421.856                            -7.019  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         60550.9                            -161.2  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         86609.5                            -877.9  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          878013                              5101  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          2332.3                             240.9  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           98894                              2330  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          135293                             -2452  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          104053                             -1568  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           51322                             -2210  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         14875.9                             691.3  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          9805.4                             415.9  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          2093.2                             -12.8  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         2482.37                             31.22  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         60137.7                             101.5  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                            4236                               -25  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         50700.7                            -448.4  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         78475.3                             496.5  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          222301                             -8067  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           49097                              2904  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        822759.1                            -357.8  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                           24374                             -1819  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                         22329.6                            -581.2  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                        23229.55                             85.49  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          991434                            -19507  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ C.Reactive.Protein..CRP...mg.mL., data = IBS)
+
+Coefficients:
+                     (Intercept)  C.Reactive.Protein..CRP...mg.mL.  
+                          552.41                             -5.63  
+
+
